@@ -32,7 +32,7 @@
         <openMRSVersion>1.9.7</openMRSVersion>
         <appframeworkVersion>2.2.1</appframeworkVersion>
         <uiframeworkVersion>3.2</uiframeworkVersion>
-        <legacyuiVersion>1.1</legacyuiVersion>
+        <legacyuiVersion>1.8.0</legacyuiVersion>
 	</properties>
 
 	<dependencies>
