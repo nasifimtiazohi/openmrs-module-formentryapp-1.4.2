@@ -29,7 +29,7 @@
         <distro.groupId>org.openmrs.distro</distro.groupId>
         <distro.artifactId>referenceapplication</distro.artifactId>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <openMRSVersion>1.9.7</openMRSVersion>
+        <openMRSVersion>1.12.1</openMRSVersion>
         <appframeworkVersion>2.2.1</appframeworkVersion>
         <uiframeworkVersion>3.2</uiframeworkVersion>
         <legacyuiVersion>1.1</legacyuiVersion>
